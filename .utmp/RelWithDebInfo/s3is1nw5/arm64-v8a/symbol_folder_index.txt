@@ -1,0 +1,1 @@
+C:\Users\skyzf\Documents\GitHub\OntopTask\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\s3is1nw5\obj\arm64-v8a
